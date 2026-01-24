@@ -52,45 +52,6 @@ Focused on **reliability, automation, and clean system design**, with strong int
 
 ---
 
-## 🏗 Selected Projects / 主要プロジェクト
-
-### 🔹 AWS Secure VPC Architecture  
-- Designed public/private subnet model with NAT Gateway  
-- Implemented routing, security groups & NACLs  
-- Focus: Security, fault isolation, cost awareness  
-
-### 🔹 CI/CD Pipeline for Containerized Application  
-- Automated build & deployment using GitHub Actions  
-- Docker-based deployment on AWS  
-- Focus: Reliability & reproducibility  
-
-### 🔹 Kubernetes Microservice Deployment (EKS)  
-- Deployed containerized services with autoscaling  
-- Integrated monitoring stack  
-- Focus: Stability & scalability  
-
-*(Project links will be added as repositories are finalized)*
-
----
-
-## 📈 Engineering Philosophy / エンジニアとしての考え方
-
-- シンプルで保守しやすい設計を重視  
-- 自動化による品質と速度の両立  
-- 再現性と信頼性のあるシステム構築  
-- 継続的な改善 (Kaizen)
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammaduzair9889&show_icons=true&hide_title=true&theme=graywhite&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaduzair9889&layout=compact&theme=graywhite&hide_border=true" height="160">
-</div>
-
----
-
 ## 📫 Contact / 連絡先
 
 - GitHub: https://github.com/muhammaduzair9889  
