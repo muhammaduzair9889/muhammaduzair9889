@@ -25,34 +25,34 @@ Focused on **reliability, automation, and clean system design**, with strong int
 
 ---
 
-## 🧩 Technical Expertise / 技術スキル
+## Technical Expertise / 技術スキル
 
-### ☁ Cloud Platforms
+### Cloud Platforms
 - AWS (EC2, VPC, IAM, ALB, ECS, EKS, S3, RDS, NAT Gateway)
 - Multi-tier architecture design
 - High availability & security-oriented setups
 
-### 🔧 DevOps & Automation
+### DevOps & Automation
 - CI/CD using GitHub Actions & Jenkins  
 - Dockerized application deployment  
 - Git-based workflows  
 - Environment-based deployment strategies  
 
-### 📦 Containers & Orchestration
+### Containers & Orchestration
 - Docker (image optimization, multi-stage builds)
 - Kubernetes (EKS, deployments, services, autoscaling)
 
-### 📊 Observability & Ops
+### Observability & Ops
 - Monitoring (CloudWatch, Prometheus, Grafana)
 - Log management & troubleshooting
 
-### 🧪 IaC & Configuration
+### IaC & Configuration
 - Terraform (core resource provisioning)
 - YAML-based configuration management
 
 ---
 
-## 📊 GitHub Stats / 活動統計
+## GitHub Stats / 活動統計
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Focused on **reliability, automation, and clean system design**, with strong int
 
 ---
 
-## 📫 Contact / 連絡先
+## Contact / 連絡先
 
 - GitHub: https://github.com/muhammaduzair9889  
 - LinkedIn: https://www.linkedin.com/in/muhammad-uzair-b806a4394  
