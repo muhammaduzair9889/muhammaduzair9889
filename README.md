@@ -85,8 +85,8 @@ Focused on **reliability, automation, and clean system design**, with strong int
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&theme=graywhite&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=graywhite&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammaduzair9889&show_icons=true&hide_title=true&theme=graywhite&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaduzair9889&layout=compact&theme=graywhite&hide_border=true" height="160">
 </div>
 
 ---
@@ -95,7 +95,7 @@ Focused on **reliability, automation, and clean system design**, with strong int
 
 - GitHub: https://github.com/muhammaduzair9889  
 - LinkedIn: https://www.linkedin.com/in/muhammad-uzair-b806a4394  
-- Email: muhammaduzair8695@gmail.com 
+- Email: muhammaduzair8695@gmail.com  
 
 ---
 
