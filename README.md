@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/AWS-Practical%20Experience-232F3E?logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-Hands--on-326CE5?logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/CI%2FCD-Production%20Pipelines-0A0A0A?logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Japan%20Market-Ready-red">
 
 </div>
 
@@ -49,17 +48,6 @@ Focused on **reliability, automation, and clean system design**, with strong int
 ### IaC & Configuration
 - Terraform (core resource provisioning)
 - YAML-based configuration management
-
----
-
-## GitHub Stats / 活動統計
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammaduzair9889&show_icons=true&count_private=true&hide_title=true&theme=graywhite&hide_border=true" height="160" alt="Muhammad Uzair GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaduzair9889&layout=compact&theme=graywhite&hide_border=true&langs_count=6" height="160" alt="Muhammad Uzair Top Languages" />
-
-</div>
 
 ---
 
