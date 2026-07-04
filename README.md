@@ -13,8 +13,9 @@
 
 ## 👤 Profile
 
-Cloud & DevOps Engineer with 1+ year of hands-on experience designing, deploying, and operating production-grade infrastructure on AWS and containerized platforms. I build scalable, self-healing systems with a focus on automation, observability, and infrastructure as code.
-For me, engineering is a blend of technical excellence and human connection — clean code, reliable systems, and teams that collaborate with purpose. I'm constantly exploring new tools, refining my craft, and striving to build infrastructure that empowers both developers and end-users.
+**Cloud & DevOps Engineer** with 1+ year of hands-on experience designing, deploying, and operating production-grade infrastructure on **AWS** and containerized platforms. I build **scalable, self-healing** systems with a focus on automation, observability, and infrastructure as code.
+
+For me, engineering is a blend of technical excellence and human connection. I care about clean code, reliable systems, and teams that collaborate with purpose. I'm constantly exploring new tools, refining my craft, and striving to build infrastructure that empowers both **developers** and **end-users**.
 
 **Core Focus Areas:**
 - Cloud infrastructure design (AWS)
