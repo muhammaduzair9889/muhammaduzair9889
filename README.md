@@ -57,11 +57,6 @@ Focused on **reliability, automation, and clean system design**, with strong int
 - LinkedIn: https://www.linkedin.com/in/muhammad-uzair-b806a4394  
 - Email: muhammaduzair8695@gmail.com  
 
----
-
 <div align="center">
-
-**「信頼性のあるクラウドシステムを、着実に構築する」**  
-Building reliable cloud systems, step by step.
 
 </div>
