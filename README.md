@@ -1,7 +1,7 @@
 <div align="center">
 
 # Muhammad Uzair  
-### Cloud & DevOps Engineer | クラウド・DevOpsエンジニア
+### Cloud & DevOps Engineer
 
 <img src="https://img.shields.io/badge/AWS-Practical%20Experience-232F3E?logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-Hands--on-326CE5?logo=kubernetes&logoColor=white">
@@ -11,7 +11,7 @@
 
 ---
 
-## 👤 Profile / プロフィール
+## 👤 Profile
 
 Cloud & DevOps Engineer with **1+ year of hands-on experience** designing, deploying, and operating cloud infrastructure using AWS and container-based platforms.  
 Focused on **reliability, automation, and clean system design**, with strong interest in working in **Japan’s engineering environment**.
@@ -24,7 +24,7 @@ Focused on **reliability, automation, and clean system design**, with strong int
 
 ---
 
-## Technical Expertise / 技術スキル
+## Technical Expertise
 
 ### Cloud Platforms
 - AWS (EC2, VPC, IAM, ALB, ECS, EKS, S3, RDS, NAT Gateway)
@@ -51,7 +51,7 @@ Focused on **reliability, automation, and clean system design**, with strong int
 
 ---
 
-## Contact / 連絡先
+## Contact
 
 - GitHub: https://github.com/muhammaduzair9889  
 - LinkedIn: https://www.linkedin.com/in/muhammad-uzair-b806a4394  
