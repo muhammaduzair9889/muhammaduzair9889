@@ -28,11 +28,21 @@ I'm a Cloud & DevOps Engineer with hands-on experience designing and operating A
 
 ### Featured Projects
 
-> _Add your strongest 2-4 projects here — this is the section recruiters look at most. For each one, include a one-line description and a link to the repo. Example format below; replace with your actual work._
+**[AWS EKS Cluster with Terraform](https://github.com/muhammaduzair9889/aws-eks-terraform)**
+Provisions a production-style EKS cluster end to end: VPC, subnets, NAT/IGW, IAM roles, EKS control plane, and worker node auto scaling groups, managed through Terraform workspaces for dev/uat/prod.
+`Terraform` `AWS EKS` `IAM` `VPC`
 
-- **[Project Name]** — Short description of what it does and the stack used. [Repo →](#)
-- **[Project Name]** — Short description of what it does and the stack used. [Repo →](#)
-- **[Project Name]** — Short description of what it does and the stack used. [Repo →](#)
+**[Node.js Todo App — ECS, ECR & Kubernetes](https://github.com/muhammaduzair9889/node-todo-app-aws-ecs-ecr-k8s)**
+A containerized Node.js app taken from local development through to AWS ECS Fargate via ECR, with Kubernetes manifests included so the same image can also run on EKS or any Kubernetes cluster.
+`Docker` `AWS ECS` `AWS ECR` `Kubernetes`
+
+**[AWS Multi-VPC Architecture](https://github.com/muhammaduzair9889/aws-multi-vpc-architecture)**
+A secure, production-style multi-VPC setup with public/private subnets, VPC peering, custom routing, security groups and NACLs, and CloudWatch/SNS billing alarms for operational visibility.
+`AWS VPC` `Security Groups` `CloudWatch` `SNS`
+
+**[AWS Serverless CRUD](https://github.com/muhammaduzair9889/aws-serverless-crud-project)**
+A serverless CRUD system built with four AWS Lambda functions backed by DynamoDB, with IAM scoped execution roles and CloudWatch logging for every operation.
+`AWS Lambda` `DynamoDB` `CloudWatch` `Python`
 
 <br>
 
@@ -47,10 +57,10 @@ I'm a Cloud & DevOps Engineer with hands-on experience designing and operating A
 
 ### Currently Learning
 
-> _Fill in with what you're actually working on right now — even 2-3 honest items are more credible than a long list._
-
-- [ ]
-- [ ]
+- Terraform modules and remote state management for multi-environment infrastructure
+- Kubernetes networking and service mesh fundamentals
+- GitOps workflows with tools like ArgoCD
+- AWS cost optimization and architecture best practices
 
 <br>
 
@@ -58,17 +68,20 @@ I'm a Cloud & DevOps Engineer with hands-on experience designing and operating A
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,git,grafana,prometheus" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,git,python,grafana,prometheus" />
 
 </div>
 
-**AWS:** EC2 · VPC · IAM · ALB · ECS · EKS · S3 · RDS · NAT Gateway
+**AWS:** EC2 · VPC · IAM · ALB · ECS · EKS · S3 · RDS · NAT Gateway · Lambda · DynamoDB
 **Containers:** Docker (multi-stage builds) · Kubernetes on EKS (deployments, services, autoscaling)
 **CI/CD:** GitHub Actions · Jenkins · environment-based deployment strategies
 **IaC:** Terraform for core resource provisioning · YAML-based configuration
+**Serverless:** AWS Lambda · DynamoDB · Python (boto3)
 **Observability:** CloudWatch · Prometheus · Grafana · log management and troubleshooting
 
-> _If you also work regularly with Linux, networking, or scripting (Bash/Python), add them here — these are commonly expected for DevOps roles and worth including if true._
+**Networking:** VPC peering · public/private subnet design · route tables · security groups & NACLs
+
+> _If you also work regularly with Linux or scripting (Bash/Python), add them here too — worth including if true._
 
 <br>
 
