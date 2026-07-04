@@ -1,99 +1,70 @@
 <div align="center">
 
-<br>
-
 # Muhammad Uzair
 
 **Cloud & DevOps Engineer**
 
-AWS · Kubernetes · Docker · Terraform · CI/CD
-
-<br>
+Building reliable cloud infrastructure with AWS, Kubernetes, Terraform, and modern CI/CD practices.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammaduzair9889)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-uzair-b806a4394)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammaduzair8695@gmail.com)
 
-<br>
-
 </div>
 
 ---
 
-### About Me
+## About Me
 
-I'm a Cloud & DevOps Engineer with hands-on experience designing and operating AWS infrastructure, containerized applications, and CI/CD pipelines. I focus on automating repetitive work, improving deployment reliability, and building infrastructure that's secure, maintainable, and easy for others to understand. I'm continuously building on this through practical projects and staying current with cloud-native tools.
+I'm a Cloud & DevOps Engineer focused on designing and operating AWS infrastructure, containerized applications, and CI/CD pipelines. I enjoy building systems that are automated, secure, and easy to maintain, and I approach infrastructure the same way I approach code: version it, test it, and make it repeatable. I'm continuously expanding my skills through hands-on projects in cloud architecture and platform engineering.
 
-<br>
+---
 
-### Featured Projects
+## Featured Projects
 
-**[AWS EKS Cluster with Terraform](https://github.com/muhammaduzair9889/aws-eks-terraform)**
-Provisions a production-style EKS cluster end to end: VPC, subnets, NAT/IGW, IAM roles, EKS control plane, and worker node auto scaling groups, managed through Terraform workspaces for dev/uat/prod.
-`Terraform` `AWS EKS` `IAM` `VPC`
+### [AWS EKS Cluster with Terraform](https://github.com/muhammaduzair9889/aws-eks-terraform)
+Provisions a production-style EKS cluster including networking, IAM roles, the EKS control plane, and worker node auto scaling groups, managed through Terraform workspaces for dev, uat, and prod environments.
+**Tech Stack:** Terraform · AWS EKS · IAM · VPC
 
-**[Node.js Todo App — ECS, ECR & Kubernetes](https://github.com/muhammaduzair9889/node-todo-app-aws-ecs-ecr-k8s)**
-A containerized Node.js app taken from local development through to AWS ECS Fargate via ECR, with Kubernetes manifests included so the same image can also run on EKS or any Kubernetes cluster.
-`Docker` `AWS ECS` `AWS ECR` `Kubernetes`
+### [Node.js Todo App — ECS, ECR & Kubernetes](https://github.com/muhammaduzair9889/node-todo-app-aws-ecs-ecr-k8s)
+A containerized Node.js application taken from local development through to AWS ECS Fargate via ECR, with Kubernetes manifests included so the same image runs on EKS or any Kubernetes cluster.
+**Tech Stack:** Docker · AWS ECS · AWS ECR · Kubernetes
 
-**[AWS Multi-VPC Architecture](https://github.com/muhammaduzair9889/aws-multi-vpc-architecture)**
-A secure, production-style multi-VPC setup with public/private subnets, VPC peering, custom routing, security groups and NACLs, and CloudWatch/SNS billing alarms for operational visibility.
-`AWS VPC` `Security Groups` `CloudWatch` `SNS`
+### [AWS Multi-VPC Architecture](https://github.com/muhammaduzair9889/aws-multi-vpc-architecture)
+A secure, production-style multi-VPC setup with public and private subnets, VPC peering, custom routing, security groups, NACLs, and CloudWatch/SNS billing alarms for operational visibility.
+**Tech Stack:** AWS VPC · Security Groups · CloudWatch · SNS
 
-**[AWS Serverless CRUD](https://github.com/muhammaduzair9889/aws-serverless-crud-project)**
-A serverless CRUD system built with four AWS Lambda functions backed by DynamoDB, with IAM scoped execution roles and CloudWatch logging for every operation.
-`AWS Lambda` `DynamoDB` `CloudWatch` `Python`
+### [AWS Serverless CRUD](https://github.com/muhammaduzair9889/aws-serverless-crud-project)
+A serverless CRUD system built with four AWS Lambda functions backed by DynamoDB, with scoped IAM execution roles and CloudWatch logging for every operation.
+**Tech Stack:** AWS Lambda · DynamoDB · CloudWatch · Python
 
-<br>
+---
 
-### What I Focus On
+## Technical Expertise
 
-- Designing cloud infrastructure on AWS with security and cost in mind
-- Running containerized workloads on Kubernetes
-- Building CI/CD pipelines that teams can trust
-- Writing infrastructure as code instead of clicking through consoles
+| Category | Technologies |
+|---|---|
+| **Cloud** | AWS (EC2, VPC, IAM, ALB, ECS, EKS, S3, RDS, NAT Gateway, Lambda, DynamoDB) |
+| **Linux** | Linux system administration, command-line tooling |
+| **Containers** | Docker (multi-stage builds) |
+| **Container Orchestration** | Kubernetes (deployments, services, autoscaling), Amazon EKS |
+| **CI/CD** | GitHub Actions, Jenkins, environment-based deployment strategies |
+| **Infrastructure as Code** | Terraform, YAML-based configuration |
+| **Monitoring** | CloudWatch, Prometheus, Grafana |
+| **Networking** | VPC peering, public/private subnet design, route tables, security groups, NACLs |
+| **Programming & Scripting** | Python (boto3), Bash |
+| **Version Control** | Git, GitHub |
 
-<br>
+---
 
-### Currently Learning
+## Engineering Principles
 
-- Terraform modules and remote state management for multi-environment infrastructure
-- Kubernetes networking and service mesh fundamentals
-- GitOps workflows with tools like ArgoCD
-- AWS cost optimization and architecture best practices
-
-<br>
-
-### Technical Expertise
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,git,python,grafana,prometheus" />
-
-</div>
-
-**AWS:** EC2 · VPC · IAM · ALB · ECS · EKS · S3 · RDS · NAT Gateway · Lambda · DynamoDB
-**Containers:** Docker (multi-stage builds) · Kubernetes on EKS (deployments, services, autoscaling)
-**CI/CD:** GitHub Actions · Jenkins · environment-based deployment strategies
-**IaC:** Terraform for core resource provisioning · YAML-based configuration
-**Serverless:** AWS Lambda · DynamoDB · Python (boto3)
-**Observability:** CloudWatch · Prometheus · Grafana · log management and troubleshooting
-
-**Networking:** VPC peering · public/private subnet design · route tables · security groups & NACLs
-
-> _If you also work regularly with Linux or scripting (Bash/Python), add them here too — worth including if true._
-
-<br>
-
-### Engineering Principles
-
-- Automate repetitive work whenever possible
-- Define infrastructure as code so environments are reproducible
-- Apply least-privilege access and clear network boundaries by default
-- Build systems that are observable and easy to troubleshoot
-- Scale for the problem at hand, not for hypothetical future load
-
-<br>
+1. **Infrastructure as Code** — environments are defined in code, not configured by hand.
+2. **Automation** — repetitive tasks are automated wherever possible.
+3. **Security** — least-privilege access and clear network boundaries by default.
+4. **Observability** — systems are built to be monitored and easy to troubleshoot.
+5. **Simplicity** — solutions are scaled to the problem at hand, not over-engineered.
+6. **Continuous Learning** — skills are built through hands-on projects, not just theory.
 
 ---
 
@@ -104,7 +75,5 @@ A serverless CRUD system built with four AWS Lambda functions backed by DynamoDB
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammaduzair9889)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-uzair-b806a4394)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammaduzair8695@gmail.com)
-
-*Open to conversations about infrastructure, automation, and interesting engineering problems.*
 
 </div>
