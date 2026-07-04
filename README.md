@@ -1,106 +1,97 @@
 <div align="center">
 
-# Hi, I'm Muhammad Uzair 👋
+<br>
 
-### Cloud & DevOps Engineer
+# Muhammad Uzair
 
-Building reliable, automated infrastructure on AWS and Kubernetes
+**Cloud & DevOps Engineer**
 
-<img src="https://img.shields.io/badge/AWS-Practical%20Experience-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/Kubernetes-Hands--on-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
-<img src="https://img.shields.io/badge/CI%2FCD-Production%20Pipelines-0A0A0A?logo=githubactions&logoColor=white" alt="CI/CD">
-<img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform&logoColor=white" alt="Terraform">
+AWS · Kubernetes · Docker · Terraform · CI/CD
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-uzair-b806a4394)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:muhammaduzair8695@gmail.com)
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammaduzair9889)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-uzair-b806a4394)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammaduzair8695@gmail.com)
+
+<br>
 
 </div>
 
-<br>
+---
 
-## About Me
+### About Me
 
-I'm a Cloud & DevOps Engineer with over a year of hands-on experience designing, deploying, and operating production infrastructure on AWS and containerized platforms. My work centers on building systems that are scalable, self-healing, and easy to reason about.
-
-I care about the fundamentals: clean automation, sensible IAM boundaries, infrastructure that's defined as code, and pipelines that let teams ship without fear. Most of what I know has come from building real systems end to end — provisioning the network, wiring up the cluster, automating the deploy, and then watching it in production to see what actually breaks.
-
-I'm still early in my career and treat that as an advantage. I'm deliberate about learning tools deeply rather than collecting them, and I'd rather understand why an approach works than just that it does.
+I'm a Cloud & DevOps Engineer with hands-on experience designing and operating AWS infrastructure, containerized applications, and CI/CD pipelines. I focus on automating repetitive work, improving deployment reliability, and building infrastructure that's secure, maintainable, and easy for others to understand. I'm continuously building on this through practical projects and staying current with cloud-native tools.
 
 <br>
 
-## Core Focus Areas
+### Featured Projects
 
-- Cloud infrastructure design on AWS
-- Containerization and orchestration with Docker and Kubernetes
-- CI/CD automation
-- Infrastructure reliability and scalability
+> _Add your strongest 2-4 projects here — this is the section recruiters look at most. For each one, include a one-line description and a link to the repo. Example format below; replace with your actual work._
 
-<br>
-
-## Technical Expertise
-
-**Cloud Platforms**
-<br>
-<img src="https://img.shields.io/badge/EC2-232F3E?logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/VPC-232F3E?logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/IAM-232F3E?logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/ALB-232F3E?logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/ECS-232F3E?logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/EKS-232F3E?logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/S3-232F3E?logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/RDS-232F3E?logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/NAT%20Gateway-232F3E?logo=amazonaws&logoColor=white">
-
-Multi-tier architecture design, and high-availability, security-oriented setups.
-
-**Containers & Orchestration**
-<br>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
-
-Docker image optimization and multi-stage builds. Kubernetes on EKS — deployments, services, and autoscaling.
-
-**CI/CD & Automation**
-<br>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-
-Environment-based deployment strategies and Git-based workflows.
-
-**Infrastructure as Code**
-<br>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white">
-
-Core resource provisioning with Terraform, YAML-based configuration management.
-
-**Observability & Operations**
-<br>
-<img src="https://img.shields.io/badge/CloudWatch-232F3E?logo=amazoncloudwatch&logoColor=white">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white">
-<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white">
-
-Monitoring, log management, and troubleshooting for production systems.
+- **[Project Name]** — Short description of what it does and the stack used. [Repo →](#)
+- **[Project Name]** — Short description of what it does and the stack used. [Repo →](#)
+- **[Project Name]** — Short description of what it does and the stack used. [Repo →](#)
 
 <br>
 
-## Engineering Principles
+### What I Focus On
 
-- **Automate first** — manual steps are a liability, not a shortcut
-- **Infrastructure as code** — environments should be reproducible, not remembered
-- **Security by default** — least-privilege IAM and network boundaries from the start
-- **Observability matters** — you can't fix what you can't see
-- **Build to scale, but don't over-engineer** — solve the problem in front of you well
+- Designing cloud infrastructure on AWS with security and cost in mind
+- Running containerized workloads on Kubernetes
+- Building CI/CD pipelines that teams can trust
+- Writing infrastructure as code instead of clicking through consoles
 
 <br>
 
-## Contact
+### Currently Learning
+
+> _Fill in with what you're actually working on right now — even 2-3 honest items are more credible than a long list._
+
+- [ ]
+- [ ]
+
+<br>
+
+### Technical Expertise
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/muhammaduzair9889)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-uzair-b806a4394)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammaduzair8695@gmail.com)
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,git,grafana,prometheus" />
+
+</div>
+
+**AWS:** EC2 · VPC · IAM · ALB · ECS · EKS · S3 · RDS · NAT Gateway
+**Containers:** Docker (multi-stage builds) · Kubernetes on EKS (deployments, services, autoscaling)
+**CI/CD:** GitHub Actions · Jenkins · environment-based deployment strategies
+**IaC:** Terraform for core resource provisioning · YAML-based configuration
+**Observability:** CloudWatch · Prometheus · Grafana · log management and troubleshooting
+
+> _If you also work regularly with Linux, networking, or scripting (Bash/Python), add them here — these are commonly expected for DevOps roles and worth including if true._
+
+<br>
+
+### Engineering Principles
+
+- Automate repetitive work whenever possible
+- Define infrastructure as code so environments are reproducible
+- Apply least-privilege access and clear network boundaries by default
+- Build systems that are observable and easy to troubleshoot
+- Scale for the problem at hand, not for hypothetical future load
+
+<br>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammaduzair9889)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-uzair-b806a4394)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammaduzair8695@gmail.com)
+
+*Open to conversations about infrastructure, automation, and interesting engineering problems.*
 
 </div>
